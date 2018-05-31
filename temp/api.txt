@@ -1,0 +1,33 @@
+
+
+{"code":0,"message":"操作成功","data":{"linkType":1,"statusImg":"","spreadLink":"https:\/\/uland.taobao.com\/coupon\/edetail?e=5hYHFmMHN5EN%2BoQUE6FNzGRB%2FwAlf05s2EgDbSxMQJv7TNgwT0vnDjPmd%2F1fxTqKGSLSz%2Fzft1T9uyV%2BqiSINsnFXC3XWYmcoUC34ijeiBtGqIu4YsfZTPExdTdGj4IOMhkr7p%2FHSPS3aJi%2FmNBDX8Ycg7Dlg0l62lHRRnS20LU%3D&pid=mm_13971714_17008576_109224749&af=1&src=super_tao&nowake=1&smart=0&nowake=1&smart=0","animTime":6,"businessInfo":{"businessName":"超级淘","businessLogo":"http:\/\/uploadcdn.lexiangquan.com\/spread_resource_pic\/05563681764211657.png","blessing":"http:\/\/uploadcdn.lexiangquan.com\/spread_business_pic\/05597378165424790.png","blessingFooter":"http:\/\/uploadcdn.lexiangquan.com\/spread_business_pic\/05507540552130565.png"},"prizeInfo":{"prizeId":312690160,"prizeType":"2","prizeValue":"+0.66%"}},"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+{'code': 401, 'message': '请重新登录', 'data': None, 'popup': None, 'geek': {'sec': 3, 'on': True, 'one': True, 'new': False, 'jd': False}}
+
+{"code":402,"message":"体力值不够","data":{"statusImg":"http:\/\/tao.lexiangquan.com\/templates\/default\/static\/img\/stamina_status_insufficient.png"},"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+http://tao.lexiangquan.com/?act=shake&op=receive&prize_id=312690160
+
+{"code":0,"message":"领取成功","data":null,"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+
+{"code":0,"message":"登录成功","data":{"cid":"3724465","uid":"m_37ba4060168cdc98fa3de07fc2566b94","nickname":"136****8592","balance":"1.03","mobile":"136****8592","email":"","previous_login_ip":"49.66.18.216","IPAddress":"","previous_login_time":"1509936948","avatar":"http:\/\/uploadcdn.lexiangquan.com\/shop\/common\/default_user_portrait2.jpg","cashAccount":"1161057790@qq.com","cashRealName":"张杨杨","cashIdCard":"","isNew":false},"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+
+{"code":0,"message":"","data":{"cid":"3724465","uid":"m_37ba4060168cdc98fa3de07fc2566b94","nickname":"136****8592","balance":"1.00","mobile":"136****8592","email":"","previous_login_ip":"223.104.145.22","IPAddress":"","previous_login_time":"1507521706","avatar":"http:\/\/uploadcdn.lexiangquan.com\/shop\/common\/default_user_portrait2.jpg","cashAccount":"1161057790@qq.com","cashRealName":"张杨杨","cashIdCard":"","isNew":false},"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+
+POST http://tao.lexiangquan.com/?act=receipt&op=check
+
+{"code":0,"message":"","data":{"state":1,"title":"","desc":""},"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+POST http://tao.lexiangquan.com/?act=receipt 
+{"code":0,"message":"上传成功","data":null,"popup":null,"geek":{"sec":3,"on":true,"one":true,"new":false,"jd":false}}
+
+http://uploadcdn.lexiangquan.com/receipt/img/2017-11-10/373/3724465/05636414785989069.jpeg
+
+840*1431
+
+
+
+
